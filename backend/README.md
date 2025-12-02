@@ -25,3 +25,13 @@ Workflows ubicados en backend/.github/workflows/
 Requiere secrets:
 - DOCKERHUB_USERNAME
 - DOCKERHUB_TOKEN
+
+## Reespuesta comando remotos configurarados
+gitlab
+origin
+--o--
+gitlab  https://gitlab.com/alvarosanchezsegura40/backend.git (fetch)
+gitlab  https://gitlab.com/alvarosanchezsegura40/backend.git (push)
+origin  https://github.com/Web1-Wabo/backend.git (fetch)
+origin  https://github.com/Web1-Wabo/backend.git (push)
+
