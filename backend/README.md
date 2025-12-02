@@ -26,6 +26,8 @@ Requiere secrets:
 - DOCKERHUB_USERNAME
 - DOCKERHUB_TOKEN
 
+## Respuesta de comando introducido
+da8a1a0 (HEAD -> rama1_alvaroSanchez, origin/main, origin/HEAD rama2_alvaroSanchez, main) commit 1
 ## Reespuesta comando remotos configurarados
 gitlab
 origin
