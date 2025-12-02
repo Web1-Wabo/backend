@@ -28,3 +28,12 @@ Requiere secrets:
 
 ## Respuesta de comando introducido
 da8a1a0 (HEAD -> rama1_alvaroSanchez, origin/main, origin/HEAD rama2_alvaroSanchez, main) commit 1
+## Reespuesta comando remotos configurarados
+gitlab
+origin
+--o--
+gitlab  https://gitlab.com/alvarosanchezsegura40/backend.git (fetch)
+gitlab  https://gitlab.com/alvarosanchezsegura40/backend.git (push)
+origin  https://github.com/Web1-Wabo/backend.git (fetch)
+origin  https://github.com/Web1-Wabo/backend.git (push)
+
